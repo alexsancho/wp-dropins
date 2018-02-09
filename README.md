@@ -26,9 +26,6 @@ We only want to add minimal plugins which enhance small part of WordPress.
 ### Avoid situations where users can accidentally create errors
 WordPress core development moves a bit slower with some enhancements. We will add plugins that provide fixes for problems like accented file uploads into this collection. Once those features or fixes are not needed anymore we will disable them from this package.
 
-### Allow developers to define as much settings as possible in wp-config.php
-Too many plugins have only wp-admin settings pages. We believe that most of the settings belong into code rather than the database.
-
 ### WordPress shouldn't install or contain unneccessary example data
 * Core installation should create minimal amount of content
 * Plugins shouldn't have example content when possible
