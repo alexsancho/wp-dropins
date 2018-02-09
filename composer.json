@@ -1,0 +1,29 @@
+{
+  "name": "alexsancho/wp-dropins",
+  "type": "metapackage",
+  "license": "MIT",
+  "description": "This is a composer metapackage which includes WordPress plugins that make your site safer, faster and cleaner.",
+  "homepage": "https://github.com/alexsancho/wp-dropins",
+  "authors": [
+    {
+      "name": "Alex Sancho",
+      "email": "alex@alexsancho.name",
+      "homepage": "https://github.com/alexsancho",
+      "role": "maintainer"
+    }
+  ],
+  "keywords": [
+    "wordpress", "library", "dropin"
+  ],
+  "require": {
+    "johnpbloch/wordpress": ">=4.9.4",
+
+    "alexsancho/wp-install-dropin": "*",
+    "alexsancho/wp-core-blocker": "*",
+    "alexsancho/wp-accented-uploads": "*",
+    "alexsancho/wp-admin-no-ajax": "*",
+
+    "aucor/dynamic-mo-loader": "*",
+    "roots/wp-password-bcrypt": "^1.0"
+  }
+}
