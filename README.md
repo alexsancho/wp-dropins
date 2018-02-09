@@ -52,6 +52,3 @@ extra: {
     }
 }
 ```
-
-## Maintainers
-[Alex Sancho](https://github.com/alexsancho)
