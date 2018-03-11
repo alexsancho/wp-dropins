@@ -21,7 +21,6 @@
     "alexsancho/wp-install-dropin": "*",
     "alexsancho/wp-core-blocker": "*",
     "alexsancho/wp-accented-uploads": "*",
-    "alexsancho/wp-admin-no-ajax": "*",
     "alexsancho/wp-readonly-options": "*",
 
     "aucor/dynamic-mo-loader": "*",
