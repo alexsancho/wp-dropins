@@ -22,6 +22,9 @@
     "alexsancho/wp-core-blocker": "*",
     "alexsancho/wp-accented-uploads": "*",
     "alexsancho/wp-readonly-options": "*",
+    "alexsancho/wp-redis-object-cache": "*",
+    "alexsancho/wp-redis-group-cache": "*",
+    "alexsancho/wp-db-error": "*",
 
     "aucor/dynamic-mo-loader": "*",
     "roots/wp-password-bcrypt": "^1.0"
