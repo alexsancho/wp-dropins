@@ -20,6 +20,7 @@
 
     "alexsancho/wp-install-dropin": "*",
     "alexsancho/wp-core-blocker": "*",
+    "alexsancho/wp-noblogredirect-fix": "*",
     "alexsancho/wp-accented-uploads": "*",
     "alexsancho/wp-readonly-options": "*",
     "alexsancho/wp-redis-object-cache": "*",
